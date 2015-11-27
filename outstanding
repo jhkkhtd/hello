@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main()
+{
+  printf("hello ,everyone! i'm a graduate student。now i have mant free time to coding ,i have no good projects.\n
+  but i want to do something ,there is someone who has the same to me ,please contact me.  i hope we can make a progress \n
+  together , i am waitting for you here!");
+  return 0;
+}
